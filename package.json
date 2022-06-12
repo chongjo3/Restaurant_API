@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "npm-git-install": "^0.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "restaurantapi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "jchong33",
+  "license": "ISC",
+  "description": ""
+}
